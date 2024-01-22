@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there [👋](https://github.com/AdinaAdam/React-intro)
 
 <!--
 **AdinaAdam/AdinaAdam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
