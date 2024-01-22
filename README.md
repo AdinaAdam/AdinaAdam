@@ -1,4 +1,5 @@
 ### Hi there [👋](https://github.com/AdinaAdam/React)
+![image](https://github.com/AdinaAdam/AdinaAdam/assets/152172168/f7d5a4d5-cd0d-44b5-8272-7380234da83d)
 
 <!--
 **AdinaAdam/AdinaAdam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
